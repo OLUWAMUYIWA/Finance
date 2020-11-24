@@ -1,0 +1,111 @@
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\ListaccFinance.API.exe
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\ListaccFinance.API.deps.json
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\ListaccFinance.API.runtimeconfig.json
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\ListaccFinance.API.runtimeconfig.dev.json
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\ListaccFinance.API.dll
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\ListaccFinance.API.pdb
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\obj\Debug\netcoreapp3.1\ListaccFinance.API.csprojAssemblyReference.cache
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\obj\Debug\netcoreapp3.1\staticwebassets\ListaccFinance.API.StaticWebAssets.Manifest.cache
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\obj\Debug\netcoreapp3.1\staticwebassets\ListaccFinance.API.StaticWebAssets.xml
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\obj\Debug\netcoreapp3.1\ListaccFinance.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\obj\Debug\netcoreapp3.1\ListaccFinance.API.AssemblyInfoInputs.cache
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\obj\Debug\netcoreapp3.1\ListaccFinance.API.AssemblyInfo.cs
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\obj\Debug\netcoreapp3.1\ListaccFinance.API.RazorTargetAssemblyInfo.cache
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\obj\Debug\netcoreapp3.1\ListaccFinance.API.csproj.CopyComplete
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\obj\Debug\netcoreapp3.1\ListaccFinance.API.dll
+C:\Listacc Finance\Dotnet_Web\ListaccFinance.API\obj\Debug\netcoreapp3.1\ListaccFinance.API.pdb
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\ListaccFinance.API.exe
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\ListaccFinance.API.deps.json
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\ListaccFinance.API.runtimeconfig.json
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\ListaccFinance.API.runtimeconfig.dev.json
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\ListaccFinance.API.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\ListaccFinance.API.pdb
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\obj\Debug\netcoreapp3.1\ListaccFinance.API.csprojAssemblyReference.cache
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\obj\Debug\netcoreapp3.1\staticwebassets\ListaccFinance.API.StaticWebAssets.Manifest.cache
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\obj\Debug\netcoreapp3.1\staticwebassets\ListaccFinance.API.StaticWebAssets.xml
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\obj\Debug\netcoreapp3.1\ListaccFinance.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\obj\Debug\netcoreapp3.1\ListaccFinance.API.AssemblyInfoInputs.cache
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\obj\Debug\netcoreapp3.1\ListaccFinance.API.AssemblyInfo.cs
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\obj\Debug\netcoreapp3.1\ListaccFinance.API.RazorTargetAssemblyInfo.cache
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\obj\Debug\netcoreapp3.1\ListaccFinance.API.csproj.CopyComplete
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\obj\Debug\netcoreapp3.1\ListaccFinance.API.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\obj\Debug\netcoreapp3.1\ListaccFinance.API.pdb
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Listacc_Finance\Dotnet_Web\ListaccFinance.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
