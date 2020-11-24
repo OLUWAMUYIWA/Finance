@@ -1,0 +1,10 @@
+node_modules/
+**/bin/
+**/obj/
+**/*.VC.db*  
+.vs/          
+project.lock.json
+TestResults/      
+.idea.*       
+**/appsettings.production.json
+npm-debug.
