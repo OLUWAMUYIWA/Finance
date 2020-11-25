@@ -27,9 +27,6 @@ namespace ListaccFinance.API
         {
             Configuration = configuration;
         }
-        // Local DB connection string: "Server=OLUWAMUYIWA\\SQLSERVER;Database=ListaccFinance;user id=sa;password=listacc1"
-        // Better Online Db Conn string : "Server=tcp:s19.winhost.com;Database=DB_135236_listaccfin;user id=DB_135236_listaccfin_user;password=Oghuan6789"
-        // Online Db connection strinG :  // "Data Source=tcp:s19.winhost.com;Initial Catalog=DB_135236_listaccfin;User ID=DB_135236_listaccfin_user;Password=******;Integrated Security=False;"
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
